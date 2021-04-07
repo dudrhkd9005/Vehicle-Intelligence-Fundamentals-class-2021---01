@@ -220,7 +220,9 @@ RosWiki에서 다운로드 후 사용할 수 있다.
 
 
 실제 실행은 ar_viewr로 실행된다.
+
 $ roslaunch ar_viewer ar_viewer.launch
+
 위와 같이 실행을 하면 아래와 같은 ar태그들을 인식하게된다.
 
 ![image](https://user-images.githubusercontent.com/22697171/113836962-54fc3400-97c8-11eb-96bf-6b144c7b9f86.png)
